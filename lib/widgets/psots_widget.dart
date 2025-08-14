@@ -17,7 +17,6 @@ class _PsotsWidgetState extends State<PsotsWidget> {
 
   @override
   void initState() {
-    // TODO: implement initState
     _playerController = VideoPlayerController.networkUrl(
         Uri.parse(widget.post.video),
       )

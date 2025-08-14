@@ -14,7 +14,7 @@ const images = [
   "https://images.unsplash.com/photo-1434082033009-b81d41d32e1c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 ];
 
-const uri = "http://192.168.8.156:4000";
-// const uri = "https://raaqib-admin-backend.onrender.com";
+// const uri = "http://192.168.8.156:4000";
+const uri = "https://raaqib-admin-backend.onrender.com";
 const sukdaKey = "token_ad_suj";
 final GlobalKey<NavigatorState> mainNaviKey = GlobalKey<NavigatorState>();
